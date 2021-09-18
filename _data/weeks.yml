@@ -5,22 +5,22 @@
     - lec: 1
       vids:
       - dsc: Introduction and intuitions about lambda calculus.
-        url: https://web.microsoftstream.com/video/d5e16ac7-c1ee-4fd6-95ed-1c1eb80c0d83?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/d5e16ac7-c1ee-4fd6-95ed-1c1eb80c0d83
         len: 37
       - dsc: Lambda terms.
-        url: https://web.microsoftstream.com/video/5de299c7-ea95-45d5-aae3-b4f8e9b694e7?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/5de299c7-ea95-45d5-aae3-b4f8e9b694e7
         len: 32
     - lec: 2
       vids:
       - dsc: Free variables and substitution.
-        url: https://web.microsoftstream.com/video/44a036a4-1059-47cc-896f-3c8025e2ed9f?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/44a036a4-1059-47cc-896f-3c8025e2ed9f
         len: 32
       - dsc: Alpha equivalence and identification of equivalent terms.
-        url: https://web.microsoftstream.com/video/bd7114d2-23b0-4e65-98ef-2ed4c713fa67?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/bd7114d2-23b0-4e65-98ef-2ed4c713fa67
         len: 24
   optional:
       dsc: Introducing proof as a form of programming, rules for the propositional connectives.
-      url: https://web.microsoftstream.com/video/846f8a11-6665-4332-876b-41af21c34a5d?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/846f8a11-6665-4332-876b-41af21c34a5d
       len: 54
       
 - num: 2
@@ -30,22 +30,22 @@
     - lec: 3
       vids:
       - dsc: One-step beta reduction.
-        url: https://web.microsoftstream.com/video/11519509-dba2-4317-a76e-17efe2457844?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/11519509-dba2-4317-a76e-17efe2457844
         len: 38
       - dsc: Beta reduction and beta conversion.
-        url: https://web.microsoftstream.com/video/cf0298d1-c814-44f3-8641-cc472929d302?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/cf0298d1-c814-44f3-8641-cc472929d302
         len: 33
     - lec: 4
       vids:
       - dsc: Defining functions on natural numbers - Church numerals.
-        url: https://web.microsoftstream.com/video/17d5ce3a-c353-4cdc-a485-3fd8f6eb750b?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/17d5ce3a-c353-4cdc-a485-3fd8f6eb750b
         len: 27
       - dsc: Defining functions on lists, Church encoding.
-        url: https://web.microsoftstream.com/video/f5bf2905-5f63-43d4-9449-ed3d773770cb?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/f5bf2905-5f63-43d4-9449-ed3d773770cb
         len: 21
   optional:
       dsc: Completing our approach to proof as programming, quantifiers, theories and non-constructive reasoning.
-      url: https://web.microsoftstream.com/video/792c3646-66bb-4aee-b4eb-58149cfb16c9?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/792c3646-66bb-4aee-b4eb-58149cfb16c9
       len: 61
   
 - num: 3
@@ -55,22 +55,22 @@
     - lec: 5
       vids:
       - dsc: Recursive definitions and recursive equations in mathematics and computer science.
-        url: https://web.microsoftstream.com/video/3ec09189-0d11-414f-945d-42d4e8163685?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/3ec09189-0d11-414f-945d-42d4e8163685
         len: 24
       - dsc: Recursive definitions and recursive equations in lambda calculus.
-        url: https://web.microsoftstream.com/video/0e00ead6-1557-46e2-b80f-791c092532e2?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/0e00ead6-1557-46e2-b80f-791c092532e2
         len: 51
     - lec: 6
       vids:
       - dsc: Induction on lambda terms.
-        url: https://web.microsoftstream.com/video/d2f259a5-2b32-4418-883c-ad35ae45ab18?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/d2f259a5-2b32-4418-883c-ad35ae45ab18
         len: 37
       - dsc: Induction from inductive definitions.
-        url: https://web.microsoftstream.com/video/5eaf64b1-7897-4427-a3ea-e5b2637b79a6?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/5eaf64b1-7897-4427-a3ea-e5b2637b79a6
         len: 23
   optional:
       dsc: The historical significance of the lambda calculus.
-      url: https://web.microsoftstream.com/video/86ab4cd2-7e51-4821-bcab-d4232ab78982?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/86ab4cd2-7e51-4821-bcab-d4232ab78982
       len: 44
    
 - num: 4
@@ -80,22 +80,22 @@
     - lec: 7
       vids:
       - dsc: An introduction to types.
-        url: https://web.microsoftstream.com/video/ad5a9b82-0562-4ced-9377-206824e5a743?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/ad5a9b82-0562-4ced-9377-206824e5a743
         len: 19
       - dsc: Definition of the language of types and type substitutions.
-        url: https://web.microsoftstream.com/video/f30aafab-84f2-44d3-b2ed-2c5c87f4a182?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/f30aafab-84f2-44d3-b2ed-2c5c87f4a182
         len: 38
     - lec: 8
       vids:
       - dsc: Judgements and the type system.
-        url: https://web.microsoftstream.com/video/9c70e24e-d046-4938-b8eb-7a8d6a4dfef5?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/9c70e24e-d046-4938-b8eb-7a8d6a4dfef5
         len: 34
       - dsc: Examples, untypability and typing problems.
-        url: https://web.microsoftstream.com/video/b607841e-d58a-450b-bdae-7e098442eb40?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/b607841e-d58a-450b-bdae-7e098442eb40
         len: 32
   optional: 
       dsc: Programming languages based on untyped lambda calculus.
-      url: https://web.microsoftstream.com/video/d1b02f2c-6d81-417a-bab9-59a269a8b1ec?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/d1b02f2c-6d81-417a-bab9-59a269a8b1ec
 
 - num: 5
   theme: Subformulas and Constraints
@@ -104,22 +104,22 @@
     - lec: 9
       vids:
       - dsc: We describe some basic but fundamental properties of the type system.
-        url: https://web.microsoftstream.com/video/9de5299a-e616-4540-9b72-431178b5f326?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/9de5299a-e616-4540-9b72-431178b5f326
         len: 34
       - dsc: We describe the subformula property of the type system.
-        url: https://web.microsoftstream.com/video/10857e6a-a883-4e7d-b2e3-099953b5d23b?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/10857e6a-a883-4e7d-b2e3-099953b5d23b
         len: 32
     - lec: 10
       vids:
       - dsc: We start looking at type inference by describing some informal intuitions.
-        url: https://web.microsoftstream.com/video/b4a6f6cf-012c-4daf-91df-196ddd13b1e0?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/b4a6f6cf-012c-4daf-91df-196ddd13b1e0
         len: 48
       - dsc: We give an algorithm for type constraint generation.
-        url: https://web.microsoftstream.com/video/68257cce-1388-4f18-b272-47391f9de789?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/68257cce-1388-4f18-b272-47391f9de789
         len: 24
   optional:
       dsc: We illustrate typed functional programming via our Damas-Milner type system.
-      url: https://web.microsoftstream.com/video/7f4d4a3d-059e-4e8d-bc15-66e45bbabb6e?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/7f4d4a3d-059e-4e8d-bc15-66e45bbabb6e
       len: 47
   
 - num: 6
@@ -133,22 +133,22 @@
     - lec: 11
       vids:
       - dsc: We give an algorithm for solving type constraints.
-        url: https://web.microsoftstream.com/video/604df6de-8395-48da-ac77-9ded1dc89bd0?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/604df6de-8395-48da-ac77-9ded1dc89bd0
         len: 49
       - dsc: We discuss the principal types property.
-        url: https://web.microsoftstream.com/video/2a9f751f-7c28-4d26-85e4-2de8e1c8bba1?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/2a9f751f-7c28-4d26-85e4-2de8e1c8bba1
         len: 22
     - lec: 12
       vids:
       - dsc: We introduce the proof of strong normalisation.
-        url: https://web.microsoftstream.com/video/c2eaf336-35e0-411a-8e96-3b9127a20d6d?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/c2eaf336-35e0-411a-8e96-3b9127a20d6d
         len: 43
       - dsc: We conclude the proof of strong normalisation.
-        url: https://web.microsoftstream.com/video/5691321d-cfb5-4ce7-8af5-dec96d77e254?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/5691321d-cfb5-4ce7-8af5-dec96d77e254
         len: 30
   optional: 
       dsc: We continue our illustration of typed functional programming by considering recursive definitions.
-      url: https://web.microsoftstream.com/video/c49d192e-54ff-43fb-afa6-a1f81d6346bc?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+      url: https://web.microsoftstream.com/video/c49d192e-54ff-43fb-afa6-a1f81d6346bc
       len: 54 
 
 - num: 8
@@ -158,13 +158,15 @@
     - lec: 13
       vids:
       - dsc: The inhabitation problem and its relationship with proof.
-        url: https://web.microsoftstream.com/video/cbce048c-5a4d-4f3f-b259-accca931c07c?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/cbce048c-5a4d-4f3f-b259-accca931c07c
         len: 40
       - dsc: The Curry-Howard correspondence for our type system and the implicational fragment of propositional logic.
-        url: https://web.microsoftstream.com/video/bbd773e6-1f7a-4927-9175-b28312f73865?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/bbd773e6-1f7a-4927-9175-b28312f73865
         len: 30
+    - lec: 14
+      vids:
       - dsc: Understanding the connection in terms of constructive proofs and the BHK interpretation of logic.
-        url: https://web.microsoftstream.com/video/3637afca-1f9b-498f-a428-74b2da834dcd?channelId=4301cfd8-1be7-487a-b412-b8f7eb50dbe2
+        url: https://web.microsoftstream.com/video/3637afca-1f9b-498f-a428-74b2da834dcd
         len: 49
 
 - num: 9
