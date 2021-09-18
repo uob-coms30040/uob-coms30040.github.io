@@ -16,11 +16,12 @@
 }
 
 .invisitable img {
-  border-radius:50%; 
+  border-radius:75px 75px; 
   border:1px solid #959396; 
   background:#959396;
   width:150px;
   height:150px;
+  object-fit:cover;
   filter: grayscale(20%);
 }
 
