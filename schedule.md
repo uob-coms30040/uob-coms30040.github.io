@@ -30,7 +30,7 @@ title: schedule
     {% for week in site.data.weeks %}
     {% if week.num == 6 %}
     <tr>
-      <td colspan="3" style="text-align:center">Reading Week</td>
+      <td colspan="3" style="text-align:center"><a href="#week{{ week.num }}">Reading Week</a></td>
     </tr>
     {% elsif week.num == 9 or week.num == 10 or week.num == 11 %}
     <tr>
@@ -92,7 +92,7 @@ title: schedule
 <div style="margin-left: 2em">
 
 {% for week in site.data.weeks %}
-{% unless week.num == 6 or week.num == 12 or week.num == 9 or week.num == 10 or week.num == 11 %}
+{% unless week.num == 12 or week.num == 9 or week.num == 10 or week.num == 11 %}
 
 <h3 id="week{{ week.num }}">Week {{ week.num }}: {{ week.theme }}</h3>
 <i>{{ week.description | markdownify }}</i>
