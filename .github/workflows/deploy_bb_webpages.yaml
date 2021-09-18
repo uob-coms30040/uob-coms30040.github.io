@@ -1,0 +1,31 @@
+name: Deploy Blackboard Webpages
+on: [push, workflow_dispatch]
+jobs:
+  buildAndDeploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - uses: ruby/setup-ruby@v1
+        with: 
+          ruby-version: 2.6
+
+      - uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+
+      - uses: extractions/netrc@v1
+        with:
+          machine: www.ole.bris.ac.uk
+          username: ${{ secrets.DAV_UN }}
+          password: ${{ secrets.DAV_PW }}
+
+      - name: List files
+        working-directory: _site
+        run: find . -type f
+
+      - name: Deploy pages
+        working-directory: _site
+        run: find . -type f -exec curl -n -T {} 'https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30040_2021_TB-1/site/{}' \;
+

@@ -1,0 +1,11 @@
+defaults:
+  - scope:
+      path: "questions"
+    values:
+      sheet: true
+      question: true
+  - scope:
+      path: "answers"
+    values:
+      sheet: true
+      answer: true
