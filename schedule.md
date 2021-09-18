@@ -3,7 +3,7 @@ layout: default
 title: schedule
 ---
 
-{% capture nowunix %}{{'2021-10-14' | date: '%s' }}{% endcapture %}
+{% capture nowunix %}{{'now' | date: '%s' }}{% endcapture %}
 {% capture weekunix %}{{ 60 | times: 60 | times: 24 | times: 7 }}{% endcapture %}
 {% capture startunix  %}{{ '2021-09-27' | date: '%s'  }}{% endcapture %}
 
