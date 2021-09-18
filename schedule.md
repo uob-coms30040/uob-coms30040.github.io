@@ -77,10 +77,10 @@ title: schedule
   <div>It is helpful to think of each weeks of this unit as running Tuesday midday until the following Tuesday midday.  The pattern of working described below is recommended.</div>
   <div><img src="assets/weekly.svg" style="margin:2em 1em 2em 1em; max-width:40em" width="100%"/></div>
   <div>
-    <b style="margin:1em">A</b> Watch or attend the two core lectures, watch the supplementary lecture (video).<br/>
+    <b style="margin:1em">A</b> Watch the two recorded lectures (typically 4 videos) OR attend the two core lectures (seminar timetable slot); watch the supplementary lecture (video).<br/>
     <b style="margin:1em">B</b> Attend the problem class to discuss solutions to the problems of the <i>previous</i> week.<br/>
     <b style="margin:1em">C</b> Work on the problem sheet for at least 2 hours.<br/>
-    <b style="margin:1em">D</b> Submit your answers to the problems to Eddie.
+    <b style="margin:1em">D</b> Submit your answers to the problems to Eddie by midday Tuesday.
   </div>
 </div>
 
