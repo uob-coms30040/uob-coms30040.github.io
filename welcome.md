@@ -40,9 +40,11 @@ You should expect to spend around *7 hours per week* working on this unit.  Ther
       - Tuesday 4pm in the Ada Lovelace Building SM3
       - Wednesday noon in Queens 1.69
 
-    For those of you who are not able to attend, pre-recorded videos covering the same material are released every Sunday at midnight (you may ignore the "seminar" timetable slots).  The supplementary lecture is only available as a video.  Material covered supplementary lecture is not assessed and so can be considered optional, but is highly recommended.
+    For those of you who are not able to attend, pre-recorded videos covering the same material are released every Sunday at midnight (you may ignore the "seminar" timetable slots).  The supplementary lecture is only available as a video.  Material covered in the supplementary lecture is not assessed and so can be considered optional, but is highly recommended (and is necessary in case you are not comfortable with proofs).
   
   * __Problem Sheets (2-3 hr).__ You will only learn on this unit by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* on each problem sheet each week.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } and/or [supplementary notes](assets/proofs.pdf){: target="_blank" } whilst attempting the problems.  You should complete the problem sheet in your own time and submit it to Eddie Jones at ej16147@bristol.ac.uk no later than the following Tuesday at midday.  Eddie and Sam will mark your work and return it to you in time for your problem class.
+    
+    *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
 
   * __Problem Class (1 hr).__ Excepting Week 1, you should attend a problem class each week to discuss the answers to the problems of the previous week.  Unless everyone can make it in-person, we will likely run one problem class in person and one problem class online, simultaneously.
      - Friday 2pm in either Ada Lovelace SM3/SM4 or online (TBD)
