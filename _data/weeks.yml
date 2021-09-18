@@ -123,7 +123,8 @@
       len: 47
   
 - num: 6
-  theme: 
+  theme: Reading Week
+  description: There are no lectures or classes this week because it is Reading week in SCEEM.  However, if you are looking for more practice, Eddie Jones has set a special problem sheet that will guide you through the main points of proving that the pure untyped lambda calculus is Turing complete - in this case, that it is capable of simulating the computations of a Turing machine with a doubly infinite tape.
 
 - num: 7
   theme: Inference and Normalisation
