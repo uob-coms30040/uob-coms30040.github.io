@@ -57,10 +57,10 @@ title: schedule
       </td>
       <td>
         {% if this_week_unix <= nowunix %}
-        <a href="questions/sheet{{ week.num }}.pdf">qns</a>
+        <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>
         {% endif %}
         {% if next_week_unix <= nowunix %}
-         // <a href="answers/sheet{{ week.num }}.pdf">ans</a>
+         // <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>
         {% endif %}
       </td>
     </tr>
@@ -124,7 +124,7 @@ title: schedule
       </p>
     </li>
     <li>
-      Problems: <a href="questions/sheet{{ week.num }}.pdf">qns</a>{% if next_week_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf">ans</a>{% endif %}
+      Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_week_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
     </li>
     {% endif %}
   </ul>
