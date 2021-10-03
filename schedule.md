@@ -6,6 +6,7 @@ title: schedule
 {% capture nowunix %}{{'now' | date: '%s' }}{% endcapture %}
 {% capture weekunix %}{{ 60 | times: 60 | times: 24 | times: 7 }}{% endcapture %}
 {% capture startunix  %}{{ '2021-09-27' | date: '%s'  }}{% endcapture %}
+{% capture startfridayunix  %}{{ '2021-10-01' | date: '%s'  }}{% endcapture %}
 
 {% assign question_sheets = site.static_files | where: "question", true %}
 {% assign answer_sheets = site.static_files | where: "answer", true %}
@@ -45,6 +46,7 @@ title: schedule
     {% else %}
     {% capture this_week_unix %}{{ week.num | minus: 1 | times: weekunix | plus: startunix }}{% endcapture %}
     {% capture next_week_unix %}{{ week.num | times: weekunix | plus: startunix }}{% endcapture %}
+    {% capture next_friday_unix %}{{ week.num | times: weekunix | plus: startfridayunix }}{% endcapture %}
     <tr> 
       <td><a href="#week{{ week.num }}">Week {{ week.num }}: {{week.theme}}</a></td>
       <td>
@@ -59,7 +61,7 @@ title: schedule
         {% if this_week_unix <= nowunix %}
         <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>
         {% endif %}
-        {% if next_week_unix <= nowunix %}
+        {% if next_friday_unix <= nowunix %}
          // <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>
         {% endif %}
       </td>
@@ -101,6 +103,7 @@ title: schedule
   <ul>
     {% capture this_week_unix %}{{ week.num | minus: 1 | times: weekunix | plus: startunix }}{% endcapture %}
     {% capture next_week_unix %}{{ week.num | times: weekunix | plus: startunix }}{% endcapture %}
+    {% capture next_friday_unix %}{{ week.num | times: weekunix | plus: startfridayunix }}{% endcapture %}
     {% if this_week_unix <= nowunix %}
     <li>
       <p>Videos:<br/><br/>
@@ -124,7 +127,7 @@ title: schedule
       </p>
     </li>
     <li>
-      Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_week_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
+      Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_friday_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
     </li>
     {% endif %}
   </ul>
