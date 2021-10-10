@@ -136,10 +136,10 @@ title: schedule
            / <a href="slides/P3.pdf" target="_blank">3</a>
             <a href="slides/P4.pdf" target="_blank">4</a>
         {% else %}
-          <a href="slides/P{{ week.num | times: 4 | minus: 3 }}" target="_blank">{{ week.num | times: 4 | minus: 3 }}</a>
-           <a href="slides/P{{ week.num | times: 4 | minus: 2 }}" target="_blank">{{ week.num | times: 4 | minus: 2 }}</a>
-          / <a href="slides/P{{ week.num | times: 4 | minus: 1 }}" target="_blank">{{ week.num | times: 4 | minus: 1 }}</a>
-           <a href="slides/P{{ week.num | times: 4 }}" target="_blank">{{ week.num | times: 4 }}</a>
+          <a href="slides/P{{ week.num | times: 4 | minus: 3 }}.pdf" target="_blank">{{ week.num | times: 4 | minus: 3 }}</a>
+           <a href="slides/P{{ week.num | times: 4 | minus: 2 }}.pdf" target="_blank">{{ week.num | times: 4 | minus: 2 }}</a>
+          / <a href="slides/P{{ week.num | times: 4 | minus: 1 }}.pdf" target="_blank">{{ week.num | times: 4 | minus: 1 }}</a>
+           <a href="slides/P{{ week.num | times: 4 }}.pdf" target="_blank">{{ week.num | times: 4 }}</a>
         {% endif %}
     </li>
     {% endif %}
