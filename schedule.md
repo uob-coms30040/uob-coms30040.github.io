@@ -129,6 +129,19 @@ title: schedule
     <li>
       Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_friday_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
     </li>
+    <li>
+      Slides: 
+        {% if week.num == 1 %}
+          <a href="slides/2.pdf" target="_blank">2</a>
+           / <a href="slides/3.pdf" target="_blank">3</a>
+            <a href="slides/4.pdf" target="_blank">4</a>
+        {% else %}
+          <a href="slides/{{ week.num | times: 4 | minus: 3 }}" target="_blank">{{ week.num | times: 4 | minus: 3 }}</a>
+           <a href="slides/{{ week.num | times: 4 | minus: 2 }}" target="_blank">{{ week.num | times: 4 | minus: 2 }}</a>
+          / <a href="slides/{{ week.num | times: 4 | minus: 1 }}" target="_blank">{{ week.num | times: 4 | minus: 1 }}</a>
+           <a href="slides/{{ week.num | times: 4 }}" target="_blank">{{ week.num | times: 4 }}</a>
+        {% endif %}
+    </li>
     {% endif %}
   </ul>
 
