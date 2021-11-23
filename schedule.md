@@ -106,7 +106,7 @@ title: schedule
     {% capture this_week_unix %}{{ week.num | minus: 1 | times: weekunix | plus: startunix }}{% endcapture %}
     {% capture next_week_unix %}{{ week.num | times: weekunix | plus: startunix }}{% endcapture %}
     {% capture next_friday_unix %}{{ week.num | times: weekunix | plus: startfridayunix }}{% endcapture %}
-    {% if this_week_unix <= nowunix %}
+    {% if this_week_unix <= nowunix and week.num != 6 %}
     <li>
       <p>Videos:<br/><br/>
       {% for l in week.core %}
@@ -121,7 +121,7 @@ title: schedule
         {% endfor %}
       </ul>
       {% endfor %}
-      {% if week.num != 8 && week.num != 6 %}
+      {% if week.num != 8 %}
       - Supplementary
       <ul>
         <li><a href="{{ week.optional.url }}" target="_blank">Part 1</a>: {{ week.optional.dsc }} <i>({{ week.optional.len }} mins)</i>
@@ -130,6 +130,7 @@ title: schedule
       {% endif %}
       </p>
     </li>
+    {% endif %}
     <li>
       Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_friday_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
     </li>
@@ -147,7 +148,6 @@ title: schedule
            <a href="slides/P{{ week.num | times: 4 }}.pdf" target="_blank">{{ week.num | times: 4 }}</a>
         {% endif %}
     </li>
-    {% endif %}
     {% endif %}
   </ul>
 
