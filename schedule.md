@@ -54,7 +54,9 @@ title: schedule
           {% for l in week.core %}
             {% assign part_num = 1 %}{% for v in l.vids %}<a href="{{ v.url }}" target="_blank">C{{ l.lec }}.{{ part_num }}</a> {% assign part_num = part_num | plus: 1 %}{% endfor %} // 
           {% endfor %}
+          {% if week.num != 8 %}
           <a href="{{ week.optional.url }}" target="_blank">S{{ week.num }}</a>
+          {% endif %}
         {% endif %}
       </td>
       <td>
@@ -119,11 +121,13 @@ title: schedule
         {% endfor %}
       </ul>
       {% endfor %}
+      {% if week.num != 8 %}
       - Supplementary
       <ul>
         <li><a href="{{ week.optional.url }}" target="_blank">Part 1</a>: {{ week.optional.dsc }} <i>({{ week.optional.len }} mins)</i>
         </li>
       </ul>
+      {% endif %}
       </p>
     </li>
     <li>
