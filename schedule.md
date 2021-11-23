@@ -121,7 +121,7 @@ title: schedule
         {% endfor %}
       </ul>
       {% endfor %}
-      {% if week.num != 8 %}
+      {% if week.num != 8 && week.num != 6 %}
       - Supplementary
       <ul>
         <li><a href="{{ week.optional.url }}" target="_blank">Part 1</a>: {{ week.optional.dsc }} <i>({{ week.optional.len }} mins)</i>
@@ -133,6 +133,7 @@ title: schedule
     <li>
       Problems: <a href="questions/sheet{{ week.num }}.pdf" target="_blank">qns</a>{% if next_friday_unix <= nowunix %} / <a href="answers/sheet{{ week.num }}.pdf" target="_blank">ans</a>{% endif %}
     </li>
+    {% if week.num != 6 %}
     <li>
       Slides: 
         {% if week.num == 1 %}
@@ -146,6 +147,7 @@ title: schedule
            <a href="slides/P{{ week.num | times: 4 }}.pdf" target="_blank">{{ week.num | times: 4 }}</a>
         {% endif %}
     </li>
+    {% endif %}
     {% endif %}
   </ul>
 
