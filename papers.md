@@ -14,6 +14,6 @@ A selection of past papers and their answers.
   {% for a in paper_answers %}
     {% assign paper_questions = a.basename | replace: '-answers', '' | replace: '-', ' ' %}
     {% assign paper_questions_path = a.name | replace: '-answers', '' %}
-    <li><a href="papers/{{ paper_questions_path }}" target="_blank">{{ paper_questions }}</a> (<a href="{{ a.path }}"  target="_blank">answers</a>)</li>
+    <li><a href="papers/{{ paper_questions_path }}" target="_blank">{{ paper_questions }}</a> (<a href="papers/{{ a.name }}"  target="_blank">answers</a>)</li>
   {% endfor %}
 </ul>
