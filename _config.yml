@@ -9,3 +9,7 @@ defaults:
     values:
       sheet: true
       answer: true
+  - scope:
+      path: "papers/*-answers.pdf"
+    values:
+      exam: true
