@@ -88,6 +88,8 @@ You should expect to spend around *6-7 hours per week* working on this unit.
       <td style="text-align:center">
     {% capture qns_name %}/questions/sheet{{ logical_week }}.pdf{% endcapture %}
     {% capture ans_name %}/answers/sheet{{ logical_week }}.pdf{% endcapture %}
+    {% assign qns = false %}
+    {% assign ans = false %}
     {% for static_file in site.static_files %}
       {% if static_file.path == qns_name %}
         {% assign qns = true %}
