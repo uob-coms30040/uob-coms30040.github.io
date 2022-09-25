@@ -97,10 +97,10 @@ You should expect to spend around *6-7 hours per week* working on this unit.
       {% endif %}
     {% endfor %}
     {% if qns %}
-        <a href="{{ qns_name }}" target="_blank">qns</a>  
+        <a href="{{ qns_name | remove_first: "/" }}" target="_blank">qns</a>  
     {% endif  %}
     {% if ans %}
-        / <a href="{{ ans_name }}" target="_blank">ans</a>  
+        / <a href="{{ ans_name | remove_first: "/" }}" target="_blank">ans</a>  
     {% endif %}
       </td>
     </tr>
