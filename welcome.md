@@ -6,9 +6,9 @@ title: welcome
 ![i icon](assets/icons8-info-100.png){: .icon }
 ## Welcome
 
-Welcome to the home of *COMS30040: Types and Lambda Calculus*.  This unit introduces you to type theory and the pure lambda calculus, which are two hugely influential parts of logic and the theory of programming languages.  
+Welcome to the home of *COMS30040: Types and Lambda Calculus*.  This unit introduces you to the mathematical foundations of programming languages, with an emphasis on functional programs and type systems.  
 
-In our 10 credit unit, we will be looking at one slice through these two subjects, and our focus will be on the *expressive power* of the language with and without types; the *algorithmics* of assigning types to terms; and the close *correspondence* with logic and proof.  A secondary goal is to teach you to write mathematical proofs.
+Our focus will be on the *expressive power* of the language with and without types; the *algorithmics* of assigning types to terms; and the close *correspondence* with logic and proof.  A secondary goal is to teach you to write mathematical proofs.
 
 This unit prepares you for *COMSM0067: Advanced Topics in Programming Languages* in the programming languages theme in your fourth year, but is not a prerequesite.  It shares themes and techniques with the unit *MATH30100: Logic*.
 
@@ -27,29 +27,92 @@ The unit is run by Steven Ramsay (lectures), Samantha Frohlich (classes) and Edd
 [2]: https://github.com/SamFrohlich
 [3]: https://ec-jones.github.io/
 
+Outside of lectures and classes, if you have any questions about the material, the way the unit runs or are just curious about programming language theory or logic more generally, then please post to the General channel of the [Team](https://teams.microsoft.com/l/team/19%3aMxr4W14k819-3_0gY4NZEw7CAgEFr_YhPCedOLdRdIs1%40thread.tacv2/conversations?groupId=a84e471a-ba81-4b8d-bb46-014437171f8d&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank" }.  We would like to hear from you!
 
 * * *
 
 ![schedule](assets/icons8-schedule-100.png){: .icon }
 ## Schedule
 
-*See [detailed schedule](schedule.html) for a comprehensive week-by-week synopsis.*
+You should expect to spend around *6-7 hours per week* working on this unit.
 
-You should expect to spend around *7 hours per week* working on this unit.  There are 4 main activities:
-  * __Lectures (3 hr).__ There are two *core lectures* and one *supplementary lecture* each week.  For those of you able to attend, the core lectures will be given in-person on campus, and are listed in your timetable as "seminar":  
-      - Tuesday 4pm in the Ada Lovelace Building SM3
-      - Wednesday noon in Queens 1.69
+  * __Lectures (2 hr).__ There are two in-person lectures per week, given on campus:
+      - Monday at 10am in Queens 1.68
+      - Thursday at noon in Queens 1.69
+    Each lecture corresponds to one chapter in the lecture notes (see the following).
 
-    For those of you who are not able to attend, pre-recorded videos covering the same material are released every Sunday at midnight (you may ignore the "seminar" timetable slots).  The supplementary lecture is only available as a video.  Material covered in the supplementary lecture is not assessed and so can be considered optional, but is highly recommended (and is necessary in case you are not comfortable with proofs).
+  * __Reading (0-1 hr).__ You will probably find that you need to revisit the material from the lectures in conjunction with doing the problem sheets.  There is a complete set of [lecture notes](assets/notes.pdf){: target="_blank" } that covers everything to need to know on this unit.  
+ 
+  * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).  Submission method to be determined.
   
-  * __Problem Sheets (2-3 hr).__ You will only learn on this unit by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* on each problem sheet each week.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } and/or [supplementary notes](assets/proofs.pdf){: target="_blank" } whilst attempting the problems.  You should complete the problem sheet in your own time and submit it to Eddie Jones at ej16147@bristol.ac.uk no later than the following Tuesday at midday.  Eddie and Sam will mark your work and return it to you in time for your problem class.
+  {% comment %}
+  To see who you should submit it to, consult your timetable:
+    - If you are in Group 1, please email (a scan/photo) to Sam Frohlich (sf16540) with subject [TLC:]
+    - If you are in Group 2, please email (a scan/photo) to Eddie Jones (ej16147) 
+  {% endcomment %}
     
     *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
 
-  * __Problem Class (1 hr).__ Excepting Week 1, you should attend a problem class each week to discuss the answers to the problems of the previous week.  Unless everyone can make it in-person, we will likely run one problem class in person and one problem class online, simultaneously.
-     - Friday 2pm in either Ada Lovelace SM3/SM4 or online (TBD)
+  <table class="pure-table-striped pure-table" style="margin-left:auto;margin-right:auto">
+    <thead>
+      <tr> 
+        <th style="text-align:center">University Week</th>
+        <th style="text-align:center">Problems / Solutions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="2" style="text-align:center">Welcome Week</td>
+      </tr>
+{% for calendar_week in (1..12) %}
+  {% if calendar_week <= 6 %}
+    {% assign logical_week = calendar_week %}
+  {% else %}
+    {% assign logical_week = calendar_week | minus: 1 %}
+  {% endif %}
+  {% if calendar_week == 6 %}
+    <tr>
+      <td colspan="2" style="text-align:center">Reading Week</td>
+    </tr>
+  {% elsif calendar_week >= 9 and calendar_week < 12 %}
+    <tr>
+      <td colspan="2" style="text-align:center">Coursework Week</td>
+    </tr>
+  {% elsif calendar_week == 12 %}
+    <tr>
+      <td colspan="2" style="text-align:center">Revision Week</td>
+    </tr>
+  {% else %}
+    <tr>
+      <td style="text-align:center">Week {{ calendar_week }}</td>
+      <td style="text-align:center">
+    {% capture qns_name %}/questions/sheet{{ logical_week }}.pdf{% endcapture %}
+    {% capture ans_name %}/answers/sheet{{ logical_week }}.pdf{% endcapture %}
+    {% for static_file in site.static_files %}
+      {% if static_file.path == qns_name %}
+        {% assign qns = true %}
+      {% endif %}
+      {% if static_file.path == ans_name %}
+        {% assign ans = true %}
+      {% endif %}
+    {% endfor %}
+    {% if qns %}
+        <a href="{{ qns_name }}" target="_blank">qns</a>  
+    {% endif  %}
+    {% if ans %}
+        / <a href="{{ ans_name }}" target="_blank">ans</a>  
+    {% endif %}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+    </tbody>
+  </table>
+
+  * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week.  In Week 1 there you will not have completed a problem sheet yet, but you should still attend the class because we will use the time to teach the last part of our crash course on proof.
+     - Friday 3pm in either Ada Lovelace SM3/SM4
    
-  * __Office Hours (<1 hr).__ Steven will be running office hours at a convenient time.
+  * __Office Hours (0-1 hr).__ Steven will be running office hours at a convenient time.
 
 
 
@@ -58,21 +121,17 @@ You should expect to spend around *7 hours per week* working on this unit.  Ther
 ![map and marker](assets/icons8-map-marker-100.png){: .icon }
 ## Navigating the course
 
-The unit is distributed over three locations:
+The unit is distributed over two locations:
 
 * This [blackboard page][bb], which contains:
     - the [welcome page](welcome.html), listing administrative information about the unit
-    - the [detailed schedule](schedule.html), which links to the videos, the problem sheets and their solutions
-    - the [discussion board](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_247691_1&tool_id=_2827_1&tool_type=TOOL&mode=cpview&mode=reset), for discussion, question and answer about the material
-    - the [assessment point](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5946070_1&course_id=_247691_1&mode=reset) where you will take your final exam
+    - the [announcements page](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252956_1&tool_id=_144_1&tool_type=TOOL&mode=cpview&mode=reset), which should also go to your email address
+    - the [lecture notes][rf]{: target="_blank" }, which contains a comprehensive and authoritative reference for all the material in the unit: you will need to refer to this when completing the problems. 
 
-* The [lecture notes][rf]{: target="_blank" }, which contains a comprehensive and authoritative reference for all the material introduced in the core lectures: you will need to refer to this when completing the problems. 
+* The [team](https://teams.microsoft.com/l/team/19%3aMxr4W14k819-3_0gY4NZEw7CAgEFr_YhPCedOLdRdIs1%40thread.tacv2/conversations?groupId=a84e471a-ba81-4b8d-bb46-014437171f8d&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank"} which is where you can post questions about the material, how the unit runs or anything to do with programming language theory or logic and we will do our best to answer them.
 
-* The [supplementary notes][sn]{: target="_blank" }, which contains a reference to the material on proofs as a form of programming that is introduced in the supplementary lectures of weeks 1 and 2.
-
-[bb]: https://www.ole.bris.ac.uk/auth-saml/saml/login?apId=_183_1&redirectUrl=https%3A%2F%2Fwww.ole.bris.ac.uk%2Fwebapps%2Fblackboard%2Fexecute%2FcourseMain%3Fcourse_id%3D_247691_1
+[bb]: https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_7085182_1&course_id=_252956_1
 [rf]: assets/notes.pdf
-[sn]: assets/proofs.pdf
 
 * * *
 
@@ -80,6 +139,18 @@ The unit is distributed over three locations:
 ## Assessment
 
 The unit is 100% assessed by a written exam in the January exam period.
+
+A selection of past papers and their answers.  I will try to update these to the 2022 version of the material during the term.
+
+{% assign paper_answers = site.static_files | where: "exam", true %}
+
+<ul>
+  {% for a in paper_answers %}
+    {% assign paper_questions = a.basename | replace: '-answers', '' | replace: '-', ' ' %}
+    {% assign paper_questions_path = a.name | replace: '-answers', '' %}
+    <li><a href="papers/{{ paper_questions_path }}" target="_blank">{{ paper_questions }}</a> (<a href="papers/{{ a.name }}"  target="_blank">answers</a>)</li>
+  {% endfor %}
+</ul>
 
 * * *
 
