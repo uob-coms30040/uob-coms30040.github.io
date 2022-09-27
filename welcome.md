@@ -31,27 +31,29 @@ Outside of lectures and classes, if you have any questions about the material, t
 
 * * *
 
-![schedule](assets/icons8-schedule-100.png){: .icon }
-## Schedule
+![materials](assets/icons8-briefcase.svg){: .icon }
+## Materials
 
-You should expect to spend around *6-7 hours per week* working on this unit.
+### Lecture Notes
+  The latest version of the lecture notes can be found [here](assets/notes.pdf){: target="_blank" }.
 
-  * __Lectures (2 hr).__ There are two in-person lectures per week, given on campus:
-      - Monday at 10am in Queens 1.68
-      - Thursday at noon in Queens 1.69
-    Each lecture corresponds to one chapter in the lecture notes (see the following).
+  <table class="pure-table-striped pure-table">
+  <thead>
+  <tr>
+    <th>Date</th><th>Change</th><th>Thanks to</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr><td>27/9</td><td>Added missing defn of subterm to Chapter 3</td><td></td></tr>
+  <tr><td>27/9</td><td>Fixed "n+1" should be "n+k" in Table 1.1</td><td>Bradley Phillips</td></tr> 
+  </tbody>
+  </table>
 
-  * __Reading (0-1 hr).__ You will probably find that you need to revisit the material from the lectures in conjunction with doing the problem sheets.  There is a complete set of [lecture notes](assets/notes.pdf){: target="_blank" } that covers everything to need to know on this unit.  
- 
-  * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).  Submission method to be determined.
-  
-  Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
-    - If you are in Group 1, please email (a scan/photo/image) to Sam Frohlich (sf16540).
-    - If you are in Group 2, please email (a scan/photo/image) to Eddie Jones (ej16147).
-    
-    *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
 
-  <table class="pure-table-striped pure-table" style="margin-left:auto;margin-right:auto">
+### Problem Sheets
+  One problem sheet is released each week.
+
+  <table class="pure-table-striped pure-table">
     <thead>
       <tr> 
         <th style="text-align:center">University Week</th>
@@ -108,6 +110,30 @@ You should expect to spend around *6-7 hours per week* working on this unit.
 {% endfor %}
     </tbody>
   </table>
+
+* * *
+
+![schedule](assets/icons8-schedule-100.png){: .icon }
+## Schedule
+
+You should expect to spend around *6-7 hours per week* working on this unit.
+
+  * __Lectures (2 hr).__ There are two in-person lectures per week, given on campus:
+      - Monday at 10am in Queens 1.68
+      - Thursday at noon in Queens 1.69
+    Each lecture corresponds to one chapter in the lecture notes (see the following).
+
+  * __Reading (0-1 hr).__ You will probably find that you need to revisit the material from the lectures in conjunction with doing the problem sheets.  There is a complete set of [lecture notes](assets/notes.pdf){: target="_blank" } that covers everything to need to know on this unit.  
+
+
+ 
+  * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).  Submission method to be determined.
+  
+  Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
+    - If you are in Group 1, please email (a scan/photo/image) to Sam Frohlich (sf16540).
+    - If you are in Group 2, please email (a scan/photo/image) to Eddie Jones (ej16147).
+    
+    *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
 
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week.  In Week 1 there you will not have completed a problem sheet yet, but you should still attend the class because we will use the time to teach the last part of our crash course on proof.
      - Friday 3pm in either Ada Lovelace SM3/SM4
