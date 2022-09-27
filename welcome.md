@@ -45,9 +45,9 @@ You should expect to spend around *6-7 hours per week* working on this unit.
  
   * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).  Submission method to be determined.
   
-  To see who you should submit it to, consult your timetable:
-    - If you are in Group 1, please email (a scan/photo/image) to Sam Frohlich (sf16540) with subject "[TLC] Week N" where N is the week number.
-    - If you are in Group 2, please email (a scan/photo/image) to Eddie Jones (ej16147) with subject "[TLC] Week N", where N is the week number.
+  Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
+    - If you are in Group 1, please email (a scan/photo/image) to Sam Frohlich (sf16540).
+    - If you are in Group 2, please email (a scan/photo/image) to Eddie Jones (ej16147).
     
     *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
 
