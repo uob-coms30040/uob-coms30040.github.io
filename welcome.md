@@ -51,7 +51,7 @@ Outside of lectures and classes, if you have any questions about the material, t
 
 
 ### Problem Sheets
-  One problem sheet is released each week.
+  One problem sheet is released each week.  The deadline for marking is end of the day on Tuesday the following week.  Please submit your work to your class tutor (see below) by email with subject "[TLC] Week N", where N is the number of the week containing the deadline, usually this will be the week in which you send the email.
 
   <table class="pure-table-striped pure-table">
     <thead>
