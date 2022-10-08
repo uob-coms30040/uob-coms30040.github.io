@@ -48,6 +48,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   <tr><td>27/9</td><td>Fixed "n+1" should be "n+k" in Table 1.1</td><td>Bradley Phillips</td></tr> 
     <tr><td>29/9</td><td>Revised proof of Lemma 2.2 to follow lecture</td><td></td></tr>
     <tr><td>5/10</td><td>Fixed typos in "What we mean" and FV example </td><td>Bradley Phillips</td></tr>
+    <tr><td>8/10</td><td>Fixed missing parens in substitution examples</td><td>Bohan Liu</td></tr>
   </tbody>
   </table>
 
