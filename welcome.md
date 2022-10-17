@@ -51,7 +51,7 @@ Outside of lectures and classes, if you have any questions about the material, t
     <tr><td>8/10</td><td>Fixed missing parens in substitution examples</td><td>Bohan Liu</td></tr>
     <tr><td>11/10</td><td>Reorganised to incorporate an extra lecture spent on reduction</td><td></td></tr>
     <tr><td>16/10</td><td>Moved proof of 7.1 to exercises.</td><td></td></tr>
-    <tr><td>17/10</td><td>Fixed typo in first convertibility example.</td><td></td></tr>
+    <tr><td>17/10</td><td>Fixed typo in first convertibility example.</td><td>Bradley Phillips</td></tr>
   </tbody>
   </table>
 
