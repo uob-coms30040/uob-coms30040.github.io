@@ -52,6 +52,8 @@ Outside of lectures and classes, if you have any questions about the material, t
     <tr><td>11/10</td><td>Reorganised to incorporate an extra lecture spent on reduction</td><td></td></tr>
     <tr><td>16/10</td><td>Moved proof of 7.1 to exercises.</td><td></td></tr>
     <tr><td>17/10</td><td>Fixed typo in first convertibility example.</td><td>Bradley Phillips</td></tr>
+    <tr><td>27/10</td><td>Fixed typos in 8.3 example and proof of Thm 8.1.</td><td>Bradley Phillips</td></tr>
+    <tr><td>27/10</td><td>Marked (Un)Decidability material non-examinable.</td><td></td></tr>
   </tbody>
   </table>
 
