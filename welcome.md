@@ -54,6 +54,8 @@ Outside of lectures and classes, if you have any questions about the material, t
     <tr><td>17/10</td><td>Fixed typo in first convertibility example.</td><td>Bradley Phillips</td></tr>
     <tr><td>27/10</td><td>Fixed typos in 8.3 example and proof of Thm 8.1.</td><td>Bradley Phillips</td></tr>
     <tr><td>27/10</td><td>Marked (Un)Decidability material non-examinable.</td><td></td></tr>
+    <tr><td>02/11</td><td>Revised material on types.</td><td></td></tr>
+    <tr><td>02/11</td><td>Added final two chapters.</td><td></td></tr>
   </tbody>
   </table>
 
