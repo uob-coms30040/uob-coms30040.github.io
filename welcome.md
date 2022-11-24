@@ -180,14 +180,10 @@ The unit is 100% assessed by a written exam in the January exam period.
 
 A selection of past papers and their answers.  I will try to update these to the 2022 version of the material during the term.
 
-{% assign paper_answers = site.static_files | where: "exam", true %}
-
 <ul>
-  {% for a in paper_answers %}
-    {% assign paper_questions = a.basename | replace: '-answers', '' | replace: '-', ' ' %}
-    {% assign paper_questions_path = a.name | replace: '-answers', '' %}
-    <li><a href="papers/{{ paper_questions_path }}" target="_blank">{{ paper_questions }}</a> (<a href="papers/{{ a.name }}"  target="_blank">answers</a>)</li>
-  {% endfor %}
+    <li><a href="papers/2019-January.pdf" target="_blank">January 2019</a> (<a href="papers/2019-January-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/2019-Summer.pdf" target="_blank">Summer 2019</a> (<a href="papers/2019-Summer-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
 </ul>
 
 * * *
