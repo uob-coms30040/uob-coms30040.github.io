@@ -178,7 +178,22 @@ The unit is distributed over two locations:
 
 The unit is 100% assessed by a written exam in the January exam period.
 
-A selection of past papers and their answers.  I will try to update these to the 2022 version of the material during the term.
+For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.  
+
+The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The questions are of varying difficulty but, unlike the problem sheets, the difficulty is not labelled on each question. The difficulty of questions is related to your possible marks in the following way:
+
+* 1* questions only account for approximately 40% of available marks.
+* 1* and 2* questions account for approximately 70% of available marks.
+* 1*, 2* and 3* questions account for approximately 90% of available marks.
+* The remaining approximately 10% are available for answering 4* questions.
+
+_The last part of the first question (on untyped PCF) is a 4* question, do not attempt it until you have done all you can on all other question parts_.  In general, the difficulty of problems increases throughout each of the two questions - the last problem of Question 1 is very difficult, but the first problem of Question 2 should be easy.
+
+Note that Chapter 9 of the notes, on decidability and undecidability is not examined (since I did not have time to cover it in lectures).  The last two sections of the last chapter, 13.3 and 13.4 are not examined either.
+
+Below you will find a selection of past papers and their answers.  Note, you will typically find these "past papers" more difficult than the real exam, because what you have been taught differs in small ways from what has been taught in previous iterations of the unit.  For example, in previous years, students had much more practice with pure terms (PCF without constants, as in Problem Sheet 5).  
+
+I will try to update these to the 2022 version of the material during the term.
 
 <ul>
     <li><a href="papers/2019-January.pdf" target="_blank">January 2019</a> (<a href="papers/2019-January-answers.pdf"  target="_blank">answers</a>)</li>
