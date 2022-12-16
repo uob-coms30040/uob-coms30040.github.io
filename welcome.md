@@ -180,12 +180,12 @@ The unit is 100% assessed by a written exam in the January exam period.
 
 For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.  
 
-The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The questions are of varying difficulty but, unlike the problem sheets, the difficulty is not labelled on each question. The difficulty of questions is related to your possible marks in the following way:
+The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The problems are of varying difficulty but, unlike the problem sheets, the difficulty is not labelled on each question. The difficulty of problems is related to your possible marks in the following way:
 
-* 1* questions only account for approximately 40% of available marks.
-* 1* and 2* questions account for approximately 70% of available marks.
-* 1*, 2* and 3* questions account for approximately 90% of available marks.
-* The remaining approximately 10% are available for answering 4* questions.
+* 1* problems only account for approximately 40% of available marks.
+* 1* and 2* problems account for approximately 70% of available marks.
+* 1*, 2* and 3* problems account for approximately 90% of available marks.
+* The remaining approximately 10% are available for answering 4* problems.
 
 _The last part of the first question (on untyped PCF) is a 4* question, do not attempt it until you have done all you can on all other question parts_.  In general, the difficulty of problems increases throughout each of the two questions - the last problem of Question 1 is very difficult, but the first problem of Question 2 should be easy.
 
