@@ -196,7 +196,7 @@ Below you will find a selection of past papers and their answers.  Note, you wil
 I will try to update these to the 2022 version of the material during the term.
 
 <ul>
-    <li><a href="papers/2019-January.pdf" target="_blank">January 2019</a> (<a href="papers/2019-January-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/jan-2019.pdf" target="_blank">January 2019</a> (<a href="papers/jan-2019-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
     <li><a href="papers/2019-Summer.pdf" target="_blank">Summer 2019</a> (<a href="papers/2019-Summer-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
     <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
 </ul>
