@@ -17,17 +17,14 @@ This unit prepares you for *COMSM0067: Advanced Topics in Programming Languages*
 ![contacts](assets/icons8-smartphone-tablet-100.png){: .icon }
 ## Contacts
 
-The unit is run by Steven Ramsay (lectures), Samantha Frohlich (classes) and Eddie Jones (classes).
+The unit is run by [Steven Ramsay][1] (lectures), [Samantha Frohlich][2] (classes), [Jess Foster][3] (classes) and [Charlie Walpole][4] (classes).
 
-{: .invisitable style="margin:2em 0em 0em 2em;"}
-|![Steven](assets/wbc.jpg) |![Sam](assets/Samantha.jpeg) |![Eddie](assets/Eddie.png)  |
-| [Steven Ramsay][1] | [Samantha Frohlich][2] | [Eddie Jones][3] |
+[1]: https://sjrsay.github.io
+[2]: https://SamFrohlich.github.io
+[3]: https://github.com/ratherforky
+[4]: https://github.com/CharlieWalpole
 
-[1]: https://stersay.github.io
-[2]: https://github.com/SamFrohlich
-[3]: https://ec-jones.github.io/
-
-Outside of lectures and classes, if you have any questions about the material, the way the unit runs or are just curious about programming language theory or logic more generally, then please post to the General channel of the [Team](https://teams.microsoft.com/l/team/19%3aMxr4W14k819-3_0gY4NZEw7CAgEFr_YhPCedOLdRdIs1%40thread.tacv2/conversations?groupId=a84e471a-ba81-4b8d-bb46-014437171f8d&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank" }.  We would like to hear from you!
+Outside of lectures and classes, if you have any questions about the material, the way the unit runs or are just curious about programming language theory or logic more generally, then please post to the General channel of the [Team](https://teams.microsoft.com/l/channel/19%3aM5raKUSIq_BjMIBR7OhU1HTq3eT4cL9-ArssIHKfWIk1%40thread.tacv2/General?groupId=4842fa70-39fd-4115-8d30-ae90fe1456c0&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank" }.  We would like to hear from you!
 
 * * *
 
@@ -35,6 +32,8 @@ Outside of lectures and classes, if you have any questions about the material, t
 ## Materials
 
 ### Lecture Notes
+  There is a complete set of lecture notes that contains everything you need for the unit.  I generally update the notes during term to correct mistakes and to make small improvements, so you will want to check here regularly for changes.
+
   The latest version of the lecture notes can be found [here](assets/notes.pdf){: target="_blank" }.
 
   <table class="pure-table-striped pure-table">
@@ -44,19 +43,10 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
-    <tr><td>27/9</td><td>Added missing defn of subterm to Chapter 3</td><td></td></tr>
-  <tr><td>27/9</td><td>Fixed "n+1" should be "n+k" in Table 1.1</td><td>Bradley Phillips</td></tr> 
-    <tr><td>29/9</td><td>Revised proof of Lemma 2.2 to follow lecture</td><td></td></tr>
-    <tr><td>5/10</td><td>Fixed typos in "What we mean" and FV example </td><td>Bradley Phillips</td></tr>
-    <tr><td>8/10</td><td>Fixed missing parens in substitution examples</td><td>Bohan Liu</td></tr>
-    <tr><td>11/10</td><td>Reorganised to incorporate an extra lecture spent on reduction</td><td></td></tr>
-    <tr><td>16/10</td><td>Moved proof of 7.1 to exercises.</td><td></td></tr>
-    <tr><td>17/10</td><td>Fixed typo in first convertibility example.</td><td>Bradley Phillips</td></tr>
-    <tr><td>27/10</td><td>Fixed typos in 8.3 example and proof of Thm 8.1.</td><td>Bradley Phillips</td></tr>
-    <tr><td>27/10</td><td>Marked (Un)Decidability material non-examinable.</td><td></td></tr>
-    <tr><td>02/11</td><td>Revised material on types.</td><td></td></tr>
-    <tr><td>02/11</td><td>Added final two chapters.</td><td></td></tr>
-    <tr><td>10/11</td><td>Removed some refs to old material</td><td></td></tr>
+    <tr><td>22/9</td><td>Removed beta convertibility from the unit</td><td>SJR</td></tr>
+    <tr><td>22/9</td><td>Removed material on undecidability from the unit</td><td>SJR</td></tr>
+    <tr><td>22/9</td><td>Improved presentation of term substitution</td><td>SJR</td></tr>
+    <tr><td>22/9</td><td>Added notes on grammars</td><td>SJR</td></tr>
   </tbody>
   </table>
 
@@ -130,27 +120,28 @@ Outside of lectures and classes, if you have any questions about the material, t
 You should expect to spend around *6-7 hours per week* working on this unit.
 
   * __Lectures (2 hr).__ There are two in-person lectures per week, given on campus:
-      - Monday at 10am in Queens 1.68
-      - Thursday at noon in Queens 1.69
-    Each lecture corresponds to one chapter in the lecture notes (see the following).
+      - Tuesday at noon in Queens 1.18
+      - Wednesday at noon in Ada Lovelace SM2
+    Each lecture corresponds to one chapter in the lecture notes (see above).
 
   * __Reading (0-1 hr).__ You will probably find that you need to revisit the material from the lectures in conjunction with doing the problem sheets.  There is a complete set of [lecture notes](assets/notes.pdf){: target="_blank" } that covers everything to need to know on this unit.  
 
 
  
-  * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).  Submission method to be determined.
+  * __Problem Sheets (2-3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Tuesday of Week (n+1).
   
       Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
 
-      - If you are in Group 1, please email (a scan/photo/image) to Sam Frohlich (sf16540).
-      - If you are in Group 2, please email (a scan/photo/image) to Eddie Jones (ej16147).
+      - If you are in Group 1, please email (a scan/photo/image/pdf) to Jess Foster (jess.foster).
+      - If you are in Group 2, please email (a scan/photo/image/pdf) to Sam Frohlich (samantha.frohlich).
+      - If you are in Group 3, please email (a scan/photo/image/pdf) to Charlie Walpole (op18921).
     
-      *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without watching a single lecture, but not doing the problems will lead to certain disaster.*
+      *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without attending a single lecture, but not doing the problems will lead to certain disaster.*
 
-  * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week.  In Week 1 there you will not have completed a problem sheet yet, but you should still attend the class because we will use the time to teach the last part of our crash course on proof.
-     - Friday 3pm in either Ada Lovelace SM3/SM4
+  * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  Although timetabled, there will be no class in Week 1, since you have not yet completed a problem sheet.
+     - Friday 10am in Ada Lovelace SM3/SM4/PC6
    
-  * __Office Hours (0-1 hr).__ Steven will be running office hours at a convenient time.
+  * __Office Hours (0-1 hr).__ Steven will be running office hours every Tuesday from 2pm-4pm.
 
 
 
@@ -166,9 +157,9 @@ The unit is distributed over two locations:
     - the [announcements page](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchLink.jsp?course_id=_252956_1&tool_id=_144_1&tool_type=TOOL&mode=cpview&mode=reset), which should also go to your email address
     - the [lecture notes][rf]{: target="_blank" }, which contains a comprehensive and authoritative reference for all the material in the unit: you will need to refer to this when completing the problems. 
 
-* The [team](https://teams.microsoft.com/l/team/19%3aMxr4W14k819-3_0gY4NZEw7CAgEFr_YhPCedOLdRdIs1%40thread.tacv2/conversations?groupId=a84e471a-ba81-4b8d-bb46-014437171f8d&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank"} which is where you can post questions about the material, how the unit runs or anything to do with programming language theory or logic and we will do our best to answer them.
+* The [team](https://teams.microsoft.com/l/channel/19%3aM5raKUSIq_BjMIBR7OhU1HTq3eT4cL9-ArssIHKfWIk1%40thread.tacv2/General?groupId=4842fa70-39fd-4115-8d30-ae90fe1456c0&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank"} which is where you can post questions about the material, how the unit runs or anything to do with programming language theory or logic and we will do our best to answer them.
 
-[bb]: https://www.ole.bris.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_7085182_1&course_id=_252956_1
+[bb]: https://www.ole.bris.ac.uk/ultra/courses/_257189_1/cl/outline
 [rf]: assets/notes.pdf
 
 * * *
@@ -178,7 +169,7 @@ The unit is distributed over two locations:
 
 The unit is 100% assessed by a written exam in the January exam period.
 
-For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.  
+<!-- For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.   -->
 
 The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The problems are of varying difficulty but, unlike the problem sheets, the difficulty is not labelled on each question. The difficulty of problems is related to your possible marks in the following way:
 
@@ -187,18 +178,18 @@ The exam is a series of problems to solve in the same style as the weekly proble
 * 1*, 2* and 3* problems account for approximately 90% of available marks.
 * The remaining approximately 10% are available for answering 4* problems.
 
-_The last part of the first question (on untyped PCF) is a 4* question, do not attempt it until you have done all you can on all other question parts_.  In general, the difficulty of problems increases throughout each of the two questions - the last problem of Question 1 is very difficult, but the first problem of Question 2 should be easy.
+<!-- _The last part of the first question (on untyped PCF) is a 4* question, do not attempt it until you have done all you can on all other question parts_.  In general, the difficulty of problems increases throughout each of the two questions - the last problem of Question 1 is very difficult, but the first problem of Question 2 should be easy. -->
 
-Note that Chapter 9 of the notes, on decidability and undecidability is not examined (since I did not have time to cover it in lectures).  The last two sections of the last chapter, 13.3 and 13.4 are not examined either.
+<!-- Note that Chapter 9 of the notes, on decidability and undecidability is not examined (since I did not have time to cover it in lectures).  The last two sections of the last chapter, 13.3 and 13.4 are not examined either. -->
 
 Below you will find a selection of past papers and their answers.  Note, you will typically find these "past papers" more difficult than the real exam, because what you have been taught differs in small ways from what has been taught in previous iterations of the unit.  For example, in previous years, students had much more practice with pure terms (PCF without constants, as in Problem Sheet 5).  
 
 I will try to update these to the 2022 version of the material during the term.
 
 <ul>
-    <li><a href="papers/jan-2019.pdf" target="_blank">January 2019</a> (<a href="papers/jan-2019-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
-    <li><a href="papers/2019-Summer.pdf" target="_blank">Summer 2019</a> (<a href="papers/2019-Summer-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
-    <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>) - now updated for 2022</li>
+    <li><a href="papers/jan-2019.pdf" target="_blank">January 2019</a> (<a href="papers/jan-2019-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/2019-Summer.pdf" target="_blank">Summer 2019</a> (<a href="papers/2019-Summer-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>)</li>
 </ul>
 
 * * *
