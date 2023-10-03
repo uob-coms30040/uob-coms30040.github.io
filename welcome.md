@@ -43,6 +43,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
+    <tr><td>3/10</td><td>Replaced conversion (squiggly =) with reduction in chapter 4</td><td>SJR</td></tr>
     <tr><td>26/9</td><td>Fixed some typos with e instead of R in regex induction</td><td>SJR</td></tr>
     <tr><td>22/9</td><td>Removed beta convertibility from the unit</td><td>SJR</td></tr>
     <tr><td>22/9</td><td>Removed material on undecidability from the unit</td><td>SJR</td></tr>
