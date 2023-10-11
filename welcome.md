@@ -151,7 +151,7 @@ You should expect to spend around *6-7 hours per week* working on this unit.
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  Although timetabled, there will be no class in Week 1, since you have not yet completed a problem sheet.
      - Friday 10am in Ada Lovelace SM3/SM4/PC6
    
-  * __Office Hours (0-1 hr).__ Steven will be running office hours every Tuesday from 2pm-4pm in his office, MVB 2.46.  The TAs will be running office hours every Friday in their office 81 Woodland Rd, room 1.05: opposite MVB, the staircase next to the bus stop, go up the stairs, all the way into the garden, then Sam will let you in the back door.
+  * __Office Hours (0-2 hr).__ Steven will be running office hours every Tuesday from 2pm-4pm in his office, MVB 2.46.  The TAs will be running office hours every Friday from 4pm-5pm in their office, 81 Woodland Rd, room 1.05: opposite MVB, the staircase next to the bus stop, go up the stairs, all the way into the garden, then Sam will let you in the back door.
 
 
 
