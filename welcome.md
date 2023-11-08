@@ -43,6 +43,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
+    <tr><td>8/11</td><td>Small fixes to Chapter 13</td><td>SJR</td></tr>
     <tr><td>17/10</td><td>Fix many problems in recursion chapter</td><td>SJR</td></tr>
     <tr><td>11/10</td><td>Fixed typo in example reductions (see Teams)</td><td>Yangfan Duan</td></tr>
     <tr><td>3/10</td><td>Replaced conversion (squiggly =) with reduction in chapter 4</td><td>SJR</td></tr>
