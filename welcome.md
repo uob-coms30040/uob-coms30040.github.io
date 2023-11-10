@@ -43,6 +43,8 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
+    <tr><td>10/11</td><td>Fix name of progress thm Ch 14</td><td>Karlee Sun</td></tr>
+    <tr><td>10/11</td><td>Add missing variable case for values Ch 14</td><td>James Reynolds</td></tr>
     <tr><td>9/11</td><td>Fix mistake in type derivation in 12.2</td><td>Eric Yang</td></tr>
     <tr><td>9/11</td><td>Clarify that Chapters 9, 10 & 15 not assessed</td><td>SJR</td></tr>
     <tr><td>8/11</td><td>Small fixes to Chapter 13</td><td>SJR</td></tr>
