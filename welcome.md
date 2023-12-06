@@ -192,7 +192,7 @@ The exam is a series of problems to solve in the same style as the weekly proble
 
 * 1* problems only account for approximately 40% of available marks.
 * 1* and 2* problems account for approximately 70% of available marks.
-* 1*, 2* and 3* problems account for approximately 100% of available marks.
+* 1\*, 2\* and 3* problems account for approximately 100% of available marks.
 
 Typical examples of 1* questions (mostly mechanical derivations, using definitions carefully but with little insight):
 * Identifying a correct use of a definition, e.g. that some reduction is correct.
