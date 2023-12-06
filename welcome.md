@@ -188,7 +188,9 @@ The unit is 100% assessed by a written exam in the January exam period.
 
 <!-- For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.   -->
 
-The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The problems are of varying difficulty and, *new for this year* the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
+The exam is considered open book in the following sense: *candidates may bring to the exam room 1 double-sided A4 page of notes in any format*.  In addition, *new for this year*, all the important definitions will be available at the back of the question paper in the following format: [Appendix](papers/appendix.pdf).
+
+The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The problems are of varying difficulty and, *new for this year*, the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
 
 * 1* problems only account for approximately 40% of available marks.
 * 1* and 2* problems account for approximately 70% of available marks.
