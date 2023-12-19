@@ -43,6 +43,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
+    <tr><td>19/12</td><td>Remove stray reference to "wrong" Ch 13</td><td>B Jiang & J Bejide</td></tr>
     <tr><td>11/11</td><td>Remove stray reference to "monotypes" Ch 12</td><td>Beatrice Jiang</td></tr>
     <tr><td>10/11</td><td>Fix name of progress thm Ch 13</td><td>Karlee Sun</td></tr>
     <tr><td>10/11</td><td>Add missing variable case for values Ch 13</td><td>James Reynolds</td></tr>
