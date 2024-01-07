@@ -43,6 +43,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   </tr>
   </thead>
   <tbody>
+    <tr><td>7/1</td><td>Fix C[t/x] for A[t/x] at end of 2</td><td>Rahat Mittal</td></tr>
     <tr><td>6/1</td><td>Fix typo in contexts explanation</td><td>Rahat Mittal</td></tr>
     <tr><td>6/1</td><td>Fix intuitive explanation of substitution: N instead of M</td><td>Rahat Mittal</td></tr>
     <tr><td>31/12</td><td>Fix example of While semantics near the end of 9</td><td>Rahat Mittal</td></tr>
