@@ -17,7 +17,7 @@ This unit prepares you for *COMSM0067: Advanced Topics in Programming Languages*
 ![contacts](assets/icons8-smartphone-tablet-100.png){: .icon }
 ## Contacts
 
-The unit is run by [Steven Ramsay][1] (lectures) and Amos Holland, Rose Hudson and Charlie Walpole (classes).
+The unit is run by [Steven Ramsay][1] (lectures) and Amos Holland, Rose Hudson, Charlie Walpole (classes).
 
 [1]: https://sjrsay.github.io
 
