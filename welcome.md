@@ -185,13 +185,12 @@ The unit is distributed over two locations:
 ![report card](assets/icons8-report-card-100.png){: .icon } 
 ## Assessment
 
-The unit is 100% assessed by a written exam in the January exam period.
+The unit is 100% assessed by one section in the written exam "Topics in Computer Science" in the December exam period.
 
 <!-- For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.   -->
 
-The exam is considered open book in the following sense: *candidates may bring to the exam room 1 double-sided A4 page of notes in any format*.  In addition, all the important definitions will be available at the back of the question paper in the following format: [Appendix](papers/appendix.pdf).
-
-The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be two questions, one on untyped PCF and another on types.  Each is worth 50% of the total available marks.  The problems are of varying difficulty and, *new for this year*, the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
+The exam is _closed book_.
+The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be one question, split into several parts that are worth a total of 50 marks.  The problems are of varying difficulty and  the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
 
 * 1* problems only account for approximately 40% of available marks.
 * 1* and 2* problems account for approximately 70% of available marks.
@@ -217,7 +216,7 @@ Typical examples of 2* questions (mostly proofs that are of a similar shape to t
 
 <!-- Note that Chapter 9 of the notes, on decidability and undecidability is not examined (since I did not have time to cover it in lectures).  The last two sections of the last chapter, 13.3 and 13.4 are not examined either. -->
 
-Below you will find a selection of past papers and their answers.  Note, you will typically find the older "past papers" more difficult than the real exam, because what you have been taught differs from what has been taught in previous iterations of the unit.  For example, in previous years, students had much more practice with pure terms (PCF without constants, as in Problem Sheet 5).  
+Below you will find a selection of past papers and their answers.  HOWEVER, in the past the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, each of the past papers below contains roughly twice as many problems as you will need to solve in your exam.  Note, you will also typically find the older "past papers" more difficult than the real exam, because what you have been taught differs from what has been taught in previous iterations of the unit.  For example, in previous years, students had much more practice with pure terms (PCF without constants, as in Problem Sheet 5).  
 
 <ul>
     <li><a href="papers/jan-2019.pdf" target="_blank">January 2019</a> (<a href="papers/jan-2019-answers.pdf"  target="_blank">answers</a>)</li>
