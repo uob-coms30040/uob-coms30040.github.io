@@ -189,7 +189,8 @@ The unit is 100% assessed by one section in the written exam "Topics in Computer
 
 <!-- For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.   -->
 
-The exam is _closed book_.
+The exam is _closed book_, you may not bring any notes with you to the exam room.  However, at the back of the Types and Lambda Calculus section in the exam is an appendix containing most of the important definitions from the unit.  You can take a look at what is provided here: [appendix](papers/appendix.pdf).
+
 The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be one question, split into several parts that are worth a total of 50 marks.  The problems are of varying difficulty and  the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
 
 * 1* problems only account for approximately 40% of available marks.
