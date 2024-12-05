@@ -41,6 +41,7 @@ Outside of lectures and classes, if you have any questions about the material, t
   </thead>
   <tbody>
     <tr><td>4/12</td><td>Fix typo in substitution explanation</td><td>Milosz Wasacz</td></tr>
+    <tr><td>5/12</td><td>Fix typo in conversion examples</td><td>Ethan Pascoe</td></tr>
     <!-- <tr><td>7/1</td><td>Fix C[t/x] for A[t/x] at end of 2</td><td>Rahat Mittal</td></tr>
     <tr><td>6/1</td><td>Fix typo in contexts explanation</td><td>Rahat Mittal</td></tr>
     <tr><td>6/1</td><td>Fix intuitive explanation of substitution: N instead of M</td><td>Rahat Mittal</td></tr>
