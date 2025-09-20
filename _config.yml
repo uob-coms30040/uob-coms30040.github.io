@@ -1,3 +1,20 @@
+title: Types & <br/>λ-Calculus
+remote_theme: pmarsceill/just-the-docs
+#color_scheme: foo
+compress_html:
+  ignore:
+    envs: all
+  blanklines: true
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+domain: uob-coms30040.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://uob-coms30040.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /     # place folder name if the site is served in a subfolder
+plugins:
+  - jemoji
+
 defaults:
   - scope:
       path: "questions"
