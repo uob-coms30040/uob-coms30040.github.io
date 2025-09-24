@@ -31,18 +31,14 @@ Typical examples of 2* questions (mostly proofs that are of a similar shape to t
 * Prove that no term exists that satisfies a given property/specification.
 * Prove that a term is untypable.
 * Give an example of a term satisfying a given complex specification.
+* Prove that a property is or is not decidable.
 
 *Before the day of the exam, ensure you are confident in how to answer typical 1\* and 2\* questions!*
 
-<!-- _The last part of the first question (on untyped PCF) is a 4* question, do not attempt it until you have done all you can on all other question parts_.  In general, the difficulty of problems increases throughout each of the two questions - the last problem of Question 1 is very difficult, but the first problem of Question 2 should be easy. -->
-
-<!-- Note that Chapter 9 of the notes, on decidability and undecidability is not examined (since I did not have time to cover it in lectures).  The last two sections of the last chapter, 13.3 and 13.4 are not examined either. -->
-
-Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, each of the past papers below contains roughly twice as many problems as you will need to solve in your exam.  Note, you will also typically find the older "past papers" more difficult than the real exam, because what you have been taught differs from what has been taught in previous iterations of the unit.  For example, in previous years, students had much more practice with pure terms (PCF without constants, as in Problem Sheet 5).  
+Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, each of the past papers below contains roughly twice as many problems as you will need to solve in your exam.  Note, you will also typically find the older "past papers" more difficult than the real exam, because what you have been taught differs from what has been taught in previous iterations of the unit. 
 
 <ul>
-    <li><a href="papers/jan-2019.pdf" target="_blank">January 2019</a> (<a href="papers/jan-2019-answers.pdf"  target="_blank">answers</a>)</li>
-    <li><a href="papers/2019-Summer.pdf" target="_blank">Summer 2019</a> (<a href="papers/2019-Summer-answers.pdf"  target="_blank">answers</a>)</li>
     <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>)</li>
     <li><a href="papers/jan-2023.pdf" target="_blank">January 2023</a> (<a href="papers/jan-2023-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/dec-2024.pdf" target="_blank">January 2023</a> (<a href="papers/dec-2024-answers.pdf"  target="_blank">answers</a>)</li>
 </ul>
