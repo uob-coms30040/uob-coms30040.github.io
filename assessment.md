@@ -35,7 +35,9 @@ Typical examples of 2* questions (mostly proofs that are of a similar shape to t
 
 *Before the day of the exam, ensure you are confident in how to answer typical 1\* and 2\* questions!*
 
-Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, each of the past papers below contains roughly twice as many problems as you will need to solve in your exam.  Note, you will also typically find the older "past papers" more difficult than the real exam, because what you have been taught differs from what has been taught in previous iterations of the unit. 
+Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, the 2021 and 2023 past papers below contain roughly twice as many problems as you will need to solve in your exam.  
+
+Also, the topic of undecidability is new this year (2025/26).  So, no past papers contain questions on this topic.  Instead, here is a revision problem you might like to try: <a href="questions/undec0.pdf" target="_blank">qns</a> / <a href="answers/undec0.pdf" target="_blank">ans</a>.
 
 <ul>
     <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>)</li>
