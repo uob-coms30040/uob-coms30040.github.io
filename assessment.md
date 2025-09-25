@@ -42,5 +42,5 @@ Also, the topic of undecidability is new this year (2025/26).  So, no past paper
 <ul>
     <li><a href="papers/jan-2021.pdf" target="_blank">January 2021</a> (<a href="papers/jan-2021-answers.pdf"  target="_blank">answers</a>)</li>
     <li><a href="papers/jan-2023.pdf" target="_blank">January 2023</a> (<a href="papers/jan-2023-answers.pdf"  target="_blank">answers</a>)</li>
-    <li><a href="papers/dec-2024.pdf" target="_blank">January 2023</a> (<a href="papers/dec-2024-answers.pdf"  target="_blank">answers</a>)</li>
+    <li><a href="papers/dec-2024.pdf" target="_blank">December 2024</a> (<a href="papers/dec-2024-answers.pdf"  target="_blank">answers</a>)</li>
 </ul>
