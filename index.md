@@ -40,10 +40,10 @@ You should expect to spend around *6-7 hours per week* working on this unit.
 
 Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
 
-- If you are in Group 1 (Ada Lovelace SM4), please email (a scan/photo/image/pdf) to Amos Holland (amos.holland.2021).
-- If you are in Group 2 (Ada Lovelace SM3), please email (a scan/photo/image/pdf) to Tomos Sherlock (he22266).
-- If you are in Group 3 (Ada Lovelace PC6), please email (a scan/photo/image/pdf) to Tom Divers (tom.divers).
-- If you are in Group 4 (Ada Lovelace PC5), please email (a scan/photo/image/pdf) to Luna Abumatar (vv22872).
+- If you are in Group 1 (Ada Lovelace SM4), please email a pdf to Amos Holland (amos.holland.2021).
+- If you are in Group 2 (Ada Lovelace SM3), please email a pdf to Tomos Sherlock (he22266).
+- If you are in Group 3 (Ada Lovelace PC6), please email a pdf to Tom Divers (tom.divers).
+- If you are in Group 4 (Ada Lovelace PC5), please email a pdf to Luna Abumatar (vv22872).
     
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  There will be no class in Week 1, since you have not yet had time to complete a problem sheet.
      - Friday 2pm in Ada Lovelace SM3/SM4/PC6

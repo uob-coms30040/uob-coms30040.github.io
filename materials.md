@@ -25,6 +25,11 @@ nav_order: 2
 
   One problem sheet is released each week.  The deadline for marking is end of the day on Monday the following week.  Please submit your work to your class tutor (see below) by email with subject "[TLC] Week N", where N is the number of the week containing the deadline, usually this will be the week in which you send the email.
 
+- If you are in Group 1 (Ada Lovelace SM4), please email a pdf to Amos Holland (amos.holland.2021).
+- If you are in Group 2 (Ada Lovelace SM3), please email a pdf to Tomos Sherlock (he22266).
+- If you are in Group 3 (Ada Lovelace PC6), please email a pdf to Tom Divers (tom.divers).
+- If you are in Group 4 (Ada Lovelace PC5), please email a pdf to Luna Abumatar (vv22872).
+
   <table class="pure-table-striped pure-table">
     <thead>
       <tr> 
