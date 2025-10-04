@@ -10,7 +10,7 @@ The unit is 100% assessed by one section in the written exam "Topics in Computer
 
 <!-- For this year, you will be able to take one A4 page (= one side of a sheet of A4 paper) of your own notes into the exam and consult them freely.   -->
 
-The exam is _closed book_, you may not bring any notes with you to the exam room.  However, at the back of the Types and Lambda Calculus section in the exam is an appendix containing most of the important definitions from the unit.  You can take a look at what was provided last year here: [appendix](papers/appendix.pdf).
+The exam is _closed book_, you may not bring any notes with you to the exam room.  However, at the back of the Types and Lambda Calculus section in the exam is an appendix containing most of the important definitions and, *new for this year*, some useful theorems from the unit.  You can take a look at the appendix here: [appendix](papers/appendix.pdf).
 
 The exam is a series of problems to solve in the same style as the weekly problem sheets. There will be one question, split into several parts that are worth a total of 50 marks.  The problems are of varying difficulty and  the difficulty is labelled on each question.  The difficulty of problems is related to your possible marks in *roughly* the following way:
 
@@ -35,7 +35,7 @@ Typical examples of 2* questions (mostly proofs that are of a similar shape to t
 
 *Before the day of the exam, ensure you are confident in how to answer typical 1\* and 2\* questions!*
 
-Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, the 2021 and 2023 past papers below contain roughly twice as many problems as you will need to solve in your exam.  
+Below you will find a selection of past papers and their answers.  HOWEVER, before 2024 the exam was a different format: it was a 2 hour exam dedicated to Types and Lambda Calculus and questions were not labelled with their difficulty.  Now, Types and Lambda Calculus just forms one section in the 2 hour "Topics in Computer Science" exam.  Therefore, the 2021 and 2023 past papers below contain roughly twice as many problems as you will need to solve in your exam.  Also, remember that your appendix contains more reference material.
 
 Also, the topic of undecidability is new this year (2025/26).  So, no past papers contain questions on this topic.  Instead, here is a revision problem you might like to try: <a href="questions/undec0.pdf" target="_blank">qns</a> / <a href="answers/undec0.pdf" target="_blank">ans</a>.
 
