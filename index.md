@@ -16,11 +16,11 @@ This unit prepares you for *COMSM0067: Advanced Topics in Programming Languages*
 
 ## :telephone: Contacts
 
-The unit is run by [Steven Ramsay][1] (lectures) and Luna Abumatar, Amos Holland, Tomos Sherlock and Tom Divers (classes).
+The unit is run by [Steven Ramsay][1] (lectures) and Tom Divers and Piotr Kozicki (classes).
 
 [1]: https://sjrsay.github.io
 
-Outside of lectures and classes, if you have any questions about the material, the way the unit runs or are just curious about programming language theory or logic more generally, then please post to the General channel of the [Team](https://teams.microsoft.com/l/channel/19%3AmqnhGdYxFVZnIkAmCpOFOnM_OjWSvbtbcQwIzAA4gg81%40thread.tacv2/General?groupId=afade0de-43f6-49e7-9b2c-f875492929a1&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank" }.  We would like to hear from you!
+Outside of lectures and classes, if you have any questions about the material, the way the unit runs or are just curious about programming language theory or logic more generally, then please post to the General channel of the [Team](https://teams.microsoft.com/l/channel/19%3AISKqX0WiLPJnRMGcYAiNNhz7_wvUPtDOcPOPFOKNnJ01%40thread.tacv2/General?groupId=5ed84dd3-bcee-4d0c-be71-5744295362dd&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){: target="_blank" }.  We would like to hear from you!
 
 * * *
 
@@ -28,9 +28,9 @@ Outside of lectures and classes, if you have any questions about the material, t
 
 You should expect to spend around *6-7 hours per week* working on this unit.
 
-  * __Lectures (2 hr).__ Excepting Week 1 (which has an additional Monday lecture), There are two lectures per week, given on campus:
-      - Monday at 4pm in Queens 1.06
-      - Thursday at 2pm in Queens 1.18
+  * __Lectures (2 hr).__ Excepting Week 1 (which has an additional Friday lecture), There are two lectures per week, given on campus:
+      - Monday at 2pm in FRY G.09
+      - Wednesday at 10am in FRY G.09
     
     Each lecture corresponds to one chapter in the lecture notes (see above).
  
@@ -38,17 +38,16 @@ You should expect to spend around *6-7 hours per week* working on this unit.
   
       *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without attending a single lecture, but not doing the problems will lead to certain disaster.*
 
-Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
+<!-- Please submit your work by email with subject "[TLC] Week N", where N is the number of the week containing the deadline (usually this will be the current week).  So, the first sheet should be submitted with subject "[TLC] Week 2".  To see who you should submit it to, consult your timetable:
 
-- If you are in Group 1 (Ada Lovelace SM4), please email a pdf to Amos Holland (vo21765).
-- If you are in Group 2 (Ada Lovelace SM3), please email a pdf to Tomos Sherlock (he22266).
+- 
 - If you are in Group 3 (Ada Lovelace PC6), please email a pdf to Tom Divers (tom.divers).
-- If you are in Group 4 (Ada Lovelace PC5), please email a pdf to Luna Abumatar (vv22872).
+- If you are in Group 4 (Ada Lovelace PC5), please email a pdf to Luna Abumatar (vv22872). -->
     
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  There will be no class in Week 1, since you have not yet had time to complete a problem sheet.
-     - Friday 2pm in Ada Lovelace SM3/SM4/PC6
+     - Friday 11am in Queens
    
-  * __Office Hours (0-1 hr).__ Starting from Week 2, Steven will be running office hours every Tuesday from 12noon-1pm in his office, MVB 2.46.  
+  * __Office Hours (0-1 hr).__ Steven will be running office hours every Thursday from 11am-12noon in his office, MVB 2.46.  
   
 <!-- The TAs will be running office hours every Friday from 4pm-5pm in their office, 81 Woodland Rd, room 1.05: opposite MVB, the staircase next to the bus stop, go up the stairs, all the way into the garden, then Sam will let you in the back door. -->
 
