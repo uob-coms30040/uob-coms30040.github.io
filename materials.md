@@ -8,7 +8,7 @@ nav_order: 2
 
   There is a complete set of lecture notes that contains everything you need for the unit.  I generally update the notes during term to correct mistakes and to make small improvements, so you will want to check here regularly for changes.
 
-  The latest version of the lecture notes can be found [here](assets/notes.pdf){: target="_blank" }.
+  The latest version of the lecture notes can be found [here](https://uob.sharepoint.com/:b:/r/teams/TypesandLambdaCalculusTeach_a27712e0-68d6-11f1-a7dd-9149fc5abae7/Class%20Materials/notes.pdf?d=w1002a53d96a240e48af145c1e5317e30&csf=1&web=1&e=ROv0XN){: target="_blank" }.
 
 <!-- <table class="pure-table-striped pure-table">
   <thead>
@@ -23,7 +23,11 @@ nav_order: 2
 
 ## :page_with_curl: Problem Sheets
 
-  One problem sheet is released each week.  The deadline for marking is end of the day on Monday the following week.  Please submit your work to your class tutor (info coming shortly) by email with subject "[TLC] Week N", where N is the number of the week containing the deadline, usually this will be the week in which you send the email.
+  One problem sheet is released each week.  The deadline for submission if you would like to have it marked is: end of the day on Monday the following week.
+
+  Please write "Group N", where N is your group number, prominently at the top right of the front page of your submission.  You can find your group number by looking at the class on the timetable (Fridays weeks 2-5,7 & 8.)
+  
+  <!-- Please submit your work to your class tutor (info coming shortly) by email with subject "[TLC] Week N", where N is the number of the week containing the deadline, usually this will be the week in which you send the email. -->
 
 <!-- - If you are in Group 1 (Ada Lovelace SM4), please email a pdf to Amos Holland (vo21765).
 - If you are in Group 2 (Ada Lovelace SM3), please email a pdf to Tomos Sherlock (he22266).
