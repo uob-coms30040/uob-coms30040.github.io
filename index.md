@@ -32,7 +32,7 @@ You should expect to spend around *6-7 hours per week* working on this unit.
       - Monday at 2pm in FRY G.09
       - Wednesday at 10am in FRY G.09
     
-    Each lecture corresponds to one chapter in the lecture notes (see above).
+    Each lecture corresponds to one chapter in the lecture notes.
  
   * __Problem Sheets (3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](https://uob.sharepoint.com/:b:/r/teams/TypesandLambdaCalculusTeach_a27712e0-68d6-11f1-a7dd-9149fc5abae7/Class%20Materials/notes.pdf?d=w1002a53d96a240e48af145c1e5317e30&csf=1&web=1&e=ROv0XN){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Monday of Week (n+1).
   
