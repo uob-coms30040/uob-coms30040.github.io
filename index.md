@@ -34,7 +34,7 @@ You should expect to spend around *6-7 hours per week* working on this unit.
     
     Each lecture corresponds to one chapter in the lecture notes (see above).
  
-  * __Problem Sheets (3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](assets/notes.pdf){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Monday of Week (n+1).
+  * __Problem Sheets (3 hr).__ You will only learn by completing the problem sheets.  There is one sheet released each week.  You should aim to spend *at least two hours* working on each problem sheet each week, in your own time.  You will need to consult the course [lecture notes](https://uob.sharepoint.com/:b:/r/teams/TypesandLambdaCalculusTeach_a27712e0-68d6-11f1-a7dd-9149fc5abae7/Class%20Materials/notes.pdf?d=w1002a53d96a240e48af145c1e5317e30&csf=1&web=1&e=ROv0XN){: target="_blank" } whilst attempting the problems.  You should complete the Week n problem sheet and submit it no later than the end of the (following) Monday of Week (n+1).
   
       *Attempting the problem sheets each week is the single most important thing to do in this unit.  One can certainly excel without attending a single lecture, but not doing the problems will lead to certain disaster.*
 
@@ -47,7 +47,7 @@ You should expect to spend around *6-7 hours per week* working on this unit.
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  There will be no class in Week 1, since you have not yet had time to complete a problem sheet.
      - Friday 11am in Queens
    
-  * __Office Hours (0-1 hr).__ Steven will be running office hours every Thursday from 11am-12noon in his office, MVB 2.46.  
+  * __Office Hours (0-1 hr).__ Starting in week 2, Steven will be running office hours every Thursday from 11am-12noon in his office, MVB 2.46.  
   
 <!-- The TAs will be running office hours every Friday from 4pm-5pm in their office, 81 Woodland Rd, room 1.05: opposite MVB, the staircase next to the bus stop, go up the stairs, all the way into the garden, then Sam will let you in the back door. -->
 
