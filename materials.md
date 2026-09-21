@@ -23,9 +23,11 @@ nav_order: 2
 
 ## :page_with_curl: Problem Sheets
 
-  One problem sheet is released each week.  The deadline for submission if you would like to have it marked is: end of the day on Monday the following week.
+  One problem sheet is released each week.  The deadline for submission if you would like to have it marked is: 5pm on Monday of the following week.
 
-  Please write "Group N", where N is your group number, prominently at the top right of the front page of your submission.  You can find your group number by looking at the class on the timetable (Fridays weeks 2-5,7 & 8.)
+  Please write your name and "Group N", where N is your group number (1 or 2), prominently at the top right of the front page of your submission.  You can find your group number by looking at the class on the timetable (Fridays weeks 2-5,7 & 8.)
+
+  Submit your work by taking it to the Computer Science school office (the large open plan, glass-fronted office in MVB opposite the cafe).  They will have a box near the front of the office for you to deposit your solutions.
   
   <!-- Please submit your work to your class tutor (info coming shortly) by email with subject "[TLC] Week N", where N is the number of the week containing the deadline, usually this will be the week in which you send the email. -->
 

@@ -45,7 +45,8 @@ You should expect to spend around *6-7 hours per week* working on this unit.
 - If you are in Group 4 (Ada Lovelace PC5), please email a pdf to Luna Abumatar (vv22872). -->
     
   * __Problem Class (1 hr).__ You should attend a problem class each week to discuss the answers to the problems of the previous week and look ahead to problems of the next week.  There will be no class in Week 1, since you have not yet had time to complete a problem sheet.
-     - Friday 11am in Queens
+     - Group 1: Friday 11am in Queens 1.58
+     - Group 2: Friday 11am in Queens 1.68
    
   * __Office Hours (0-1 hr).__ Starting in week 2, Steven will be running office hours every Thursday from 11am-12noon in his office, MVB 2.46.  
   
