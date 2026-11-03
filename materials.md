@@ -10,15 +10,18 @@ nav_order: 2
 
   The latest version of the lecture notes can be found [here](https://uob.sharepoint.com/:b:/r/teams/TypesandLambdaCalculusTeach_a27712e0-68d6-11f1-a7dd-9149fc5abae7/Class%20Materials/notes.pdf?d=w1002a53d96a240e48af145c1e5317e30&csf=1&web=1&e=ROv0XN){: target="_blank" }.
 
-<!-- <table class="pure-table-striped pure-table">
+<table class="pure-table-striped pure-table">
   <thead>
   <tr>
     <th>Date</th><th>Change</th><th>Thanks to</th>
   </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>3.11.26</td><td>Chapter 13: Removed erroneous variable x from grammar for values.</td><td>SR</td>
+    </tr>
   </tbody>
-  </table> -->
+  </table>
 
 
 ## :page_with_curl: Problem Sheets
