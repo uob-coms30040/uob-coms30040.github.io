@@ -20,6 +20,15 @@ nav_order: 2
     <tr>
       <td>3.11.26</td><td>Chapter 13: Removed erroneous variable x from grammar for values.</td><td>SR</td>
     </tr>
+    <tr>
+      <td>13.11.26</td><td>Chapter 13: Fixed Q that should be A.</td><td>Mihai Stoica</td>
+    </tr>
+    <tr>
+      <td>13.11.26</td><td>Chapter 14: Insert missing "exists".</td><td>Mihai Stoica</td>
+    </tr>
+    <tr>
+      <td>13.11.26</td><td>Chapter 14: Fix counterexample to the validity of (a => b) => b.</td><td>Adam Fearon</td>
+    </tr>
   </tbody>
   </table>
 
