@@ -29,6 +29,9 @@ nav_order: 2
     <tr>
       <td>13.11.26</td><td>Chapter 14: Fix counterexample to the validity of (a => b) => b.</td><td>Adam Fearon</td>
     </tr>
+    <tr>
+      <td>17.11.26</td><td>Chapter 14: Fix 2nd derivation and discussion of (T3) on pg 86.</td><td>Mihai Stoica</td>
+    </tr>
   </tbody>
   </table>
 
